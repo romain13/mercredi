@@ -1,0 +1,87 @@
+body {
+
+	font-family: 'Comic sans MS', Arial, sans-serif;
+	background-color: rgba(0, 0, 0, 0.2);
+}
+
+#bloc_page {
+
+	width: 943px;
+	margin: auto;
+}
+
+button {
+
+	border-radius: 10px;
+	position: relative;
+	bottom: 10px;
+
+}
+
+header {
+
+	text-align: center;
+	background-color: rgba(85, 82, 82, 0.5);
+}
+
+.html {
+
+	width: 20%;
+	
+	position: relative;
+	top: 20px;
+	left: 70px;
+}
+
+.css {
+
+	width: 25%;
+	float: right;
+	position: relative;
+	right: 170px;
+	top: 40px;
+	border: 1px dashed rgb(0, 31, 255);
+	border-radius: 100%;
+}
+
+#corp {
+
+	position: relative;
+	background-color: rgba(145, 144, 144, 0.5);
+}
+
+div p {
+
+	position: absolute;
+	top: 40px;
+	right: 60px;
+	text-align: center;
+}
+
+#logo {
+
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+#lien {
+
+	text-decoration: none;
+}
+
+#lien2:hover {
+
+	color: brown;
+}
+
+footer {
+
+	height: 70px;
+	position: relative;
+	background-color: rgba(187, 187, 187, 0.2);
+}
+
+footer p {
+
+	position: relative;
+}
+
